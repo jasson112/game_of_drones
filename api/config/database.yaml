@@ -1,0 +1,5 @@
+mysql:
+  host: 'db'
+  user: 'uruit'
+  password: 'uruit_password'
+  database: 'uruit_rps'
